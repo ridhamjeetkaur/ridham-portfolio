@@ -17,7 +17,7 @@ const Portfolio = () => {
   const [activeSection, setActiveSection] = useState("home");
   const [, setIsVisible] = useState({});
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
-  
+
   useEffect(() => {
     const observer = new IntersectionObserver(
       (entries) => {
