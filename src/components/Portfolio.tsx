@@ -551,7 +551,7 @@ const Portfolio = () => {
 
           <button className="group bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 px-10 py-5 rounded-full font-semibold text-lg transition-all duration-300 transform hover:scale-110 hover:rotate-1 flex items-center space-x-3 mx-auto shadow-lg hover:shadow-purple-500/25 animate-fade-in-up animation-delay-600">
             <Send className="w-5 h-5 group-hover:animate-pulse" />
-            <span>Say Hello 👋</span>
+            <span>Contact Me</span>
             <div className="w-2 h-2 bg-white rounded-full animate-ping"></div>
           </button>
         </div>
